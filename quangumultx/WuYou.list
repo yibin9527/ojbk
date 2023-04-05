@@ -11,3 +11,5 @@ HOST-SUFFIX,cmpassport.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,jegotrip.com.cn
+DOMAIN-SUFFIX,vercel.app,Global Proxy
+
