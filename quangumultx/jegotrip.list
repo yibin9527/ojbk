@@ -1,6 +1,6 @@
 # NAME:  无优行
 # AUTHOR:
-#    REPO: https://raw.githubusercontent.com/yibin9527/ojbk/master/quangumultx/WuYou.list
+#     REPO: https://raw.githubusercontent.com/yibin9527/ojbk/master/quangumultx/WuYou.list
 #HOST-SUFFIX,analysis.tratao.com
 #HOST-SUFFIX,trace.qq.com
 #HOST-SUFFIX,ins-diu1q33u.ias.tencent-cloud.net
@@ -9,5 +9,5 @@
 HOST-SUFFIX,easemob.com
 #HOST-SUFFIX,cmpassport.com
 HOST-SUFFIX,umengcloud.com
-#HOST-SUFFIX,umeng.com
+HOST-SUFFIX,umeng.com
 HOST-SUFFIX,jegotrip.com.cn
